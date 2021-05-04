@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyTestingEnvironment", "StudyTestingEnvironment\StudyTestingEnvironment.csproj", "{33A99911-FBB8-4FB4-A487-0E213711B135}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyTestingEnvironment.Services", "StudyTestingEnvironment.Services\StudyTestingEnvironment.Services.csproj", "{6C386B6E-0263-4FA8-9DBE-B79F024ADBC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyTestingEnvironment.Data", "StudyTestingEnvironment.Data\StudyTestingEnvironment.Data.csproj", "{4BEC24E0-6FCE-4C87-9311-73519DEF08E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyTestingEnvironment.Models", "StudyTestingEnvironment.Models\StudyTestingEnvironment.Models.csproj", "{A2496845-D42B-4AC7-A5B7-3AE9D20190CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyTestingEnvironment.NUnitTests", "StudyTestingEnvironment.NUnitTests\StudyTestingEnvironment.NUnitTests.csproj", "{ABB4E5A8-4451-47DA-88B1-7C76218CAB2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A99911-FBB8-4FB4-A487-0E213711B135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A99911-FBB8-4FB4-A487-0E213711B135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A99911-FBB8-4FB4-A487-0E213711B135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A99911-FBB8-4FB4-A487-0E213711B135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C386B6E-0263-4FA8-9DBE-B79F024ADBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C386B6E-0263-4FA8-9DBE-B79F024ADBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C386B6E-0263-4FA8-9DBE-B79F024ADBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C386B6E-0263-4FA8-9DBE-B79F024ADBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEC24E0-6FCE-4C87-9311-73519DEF08E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEC24E0-6FCE-4C87-9311-73519DEF08E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEC24E0-6FCE-4C87-9311-73519DEF08E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEC24E0-6FCE-4C87-9311-73519DEF08E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2496845-D42B-4AC7-A5B7-3AE9D20190CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2496845-D42B-4AC7-A5B7-3AE9D20190CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2496845-D42B-4AC7-A5B7-3AE9D20190CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2496845-D42B-4AC7-A5B7-3AE9D20190CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB4E5A8-4451-47DA-88B1-7C76218CAB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB4E5A8-4451-47DA-88B1-7C76218CAB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB4E5A8-4451-47DA-88B1-7C76218CAB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB4E5A8-4451-47DA-88B1-7C76218CAB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB4D7333-B897-4DC8-B4F0-21A7C205F82B}
+	EndGlobalSection
+EndGlobal

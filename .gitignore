@@ -1,0 +1,13 @@
+/StudyTestingEnvironment/bin
+/StudyTestingEnvironment/obj
+/StudyTestingEnvironment.Services/bin
+/StudyTestingEnvironment.Services/obj
+/StudyTestingEnvironment.Data/obj
+/StudyTestingEnvironment.Data/bin
+/StudyTestingEnvironment.Models/bin
+/StudyTestingEnvironment.Models/obj
+/StudyTestingEnvironment.NUnitTests/obj
+/StudyTestingEnvironment.NUnitTests/bin
+/StudyTestingEnvironment/appsettings.json
+/StudyTestingEnvironment/appsettings.Development.json
+/.vs/StudyTestingEnvironment/v16/TestStore/0
